@@ -67,6 +67,13 @@ header {
 	border-radius: 5px;
 }
 
+.login-screen-recuperacion {
+	background-color: #dfdfdf;
+	padding: 20px;
+	border-radius: 5px;
+	margin-bottom: 13.2rem;
+}
+
 .app-title {
 	text-align: center;
 	color: #777;
